@@ -1,0 +1,2 @@
+Fibonnaci Sequence is gotten by adding up the 2 numbers before it.
+The Rule is Xn = Xn-1 + Xn-2    
