@@ -3,7 +3,7 @@ echo "Hello World";
 
 echo "<br>";
 
-$array = array(1,2,3,4,5,6);
+$array = array(1,2,3,4,5,6,23);
 $result = 0; 
 echo "<br>"; 
 echo $result;  
@@ -17,9 +17,6 @@ for ($i=0; $i < $length ; $i++) {
         $result = $result + $array[$i]; 
 }
 echo $result;
-
-
-
 
 
 ?>
