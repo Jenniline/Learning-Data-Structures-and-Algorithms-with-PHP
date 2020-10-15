@@ -7,3 +7,4 @@ for ($x=$num; $x>=1; $x--)
 }  
 echo "Factorial of $num is $factorial";  
 ?>  
+<!-- factorial using recursion -->
