@@ -8,4 +8,4 @@ function test( int $a,int $b)
     return ($a == 30) || ($b == 30) || ($a + $b == 30);
 }
 
-var_dump(test(30.0000, 0));
+var_dump(test(30.0000, 0)); 
